@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Marina Panova](https://up.htmlacademy.ru/htmlcss/33/user/1633873).
-* Наставник: Роман Марченко.(https://htmlacademy.ru/profile/id505487)
+* Наставник: Роман М.(https://htmlacademy.ru/profile/id505487)
 
 ---
 
